@@ -5,6 +5,8 @@ date: '2020-09-16 13:51:36 +0800'
 categories: TTS paper_reading
 published: true
 ---
+收录语音合成领域论文阅读清单, 包括前端、声学模型、声码器、VC、情感合成、风格迁移、歌声合成等内容。
+
 ### Frontend
 ## 多音字
 
