@@ -32,13 +32,13 @@ __________
 
 **FastSpeech1** [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263.pdf) （2019）
 
-**FastSpeech2** 
+**FastSpeech2** [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/pdf/2006.04558v3.pdf) (2020)
 
-**Mel-Gan**
+**Mel-Gan** [MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis](https://arxiv.org/abs/1910.06711.pdf) (2019)
 
-**Multi-band MelGan**
+**Multi-band MelGan** [Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech](https://arxiv.org/pdf/2005.05106.pdf) (2020)
 
-**Parallel WaveGan**
+**Parallel WaveGan** [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700.pdf) (2019）
 
 __________
 
