@@ -18,7 +18,7 @@ published: true
 ## 韵律
 
 
-## 
+
 ____________
 
 
@@ -59,6 +59,16 @@ __________
 # Expressive TTS
 
 ## VAE-based
+[Fully-hierarchical fine-grained prosody modeling for interpretable speech synthesis](https://arxiv.org/abs/2002.03785.pdf)(2020)
+
+[Effective Use of Variational Embedding Capacity in Expressive End-to-End Speech Synthesis](https://arxiv.org/abs/1906.03402.pdf)(2019)
+
+[Robust and fine-grained prosody control of end-to-end speech synthesis](https://arxiv.org/abs/1811.02122.pdf)(2018)
+
+[Hierarchical Generative Modeling for Controllable Speech Synthesis](https://arxiv.org/abs/1810.07217.pdf)(2018)
+
+
+
 
 ### Advanced
 [Learning Hierarchical Priors in VAEs](https://arxiv.org/abs/1905.04982.pdf)（2019）
@@ -71,9 +81,12 @@ __________
 
 [VAE with a VampPrior](http://proceedings.mlr.press/v84/tomczak18a/tomczak18a.pdf) (2017)
 
+[Fixing a Broken ELBO](https://arxiv.org/abs/1711.00464.pdf)(2017)
+
 [Improving Variational Inference with Inverse Autoregressive Flow ](https://arxiv.org/abs/1606.04934.pdf) (2016)
 
 [Importance weighted autoencoders](https://arxiv.org/abs/1509.00519.pdf)（2015）
+
 
 
 
