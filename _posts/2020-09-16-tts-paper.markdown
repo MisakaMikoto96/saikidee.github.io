@@ -56,7 +56,13 @@ __________
 
 __________
 
-# Expressive TTS
+# Expressive TTS (style transfer & control & disentangle)
+## GST-based
+[DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700.pdf) (2019）
+
+[Multi-reference Tacotron by Intercross Training for Style Disentangling,Transfer and Control in Speech Synthesis](https://arxiv.org/abs/1904.02373.pdf)(2019)
+
+[Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis](https://arxiv.org/abs/1803.09017.pdf)(2018)
 
 ## VAE-based
 [Fully-hierarchical fine-grained prosody modeling for interpretable speech synthesis](https://arxiv.org/abs/2002.03785.pdf)(2020)
@@ -66,6 +72,9 @@ __________
 [Robust and fine-grained prosody control of end-to-end speech synthesis](https://arxiv.org/abs/1811.02122.pdf)(2018)
 
 [Hierarchical Generative Modeling for Controllable Speech Synthesis](https://arxiv.org/abs/1810.07217.pdf)(2018)
+
+[Learning latent representations for style control and transfer in end-to-end speech synthesis](https://arxiv.org/abs/1812.04342.pdf)(2018)
+
 
 
 
