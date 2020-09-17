@@ -6,15 +6,23 @@ categories: TTS paper_reading
 published: true
 ---
 ### Frontend
+## 多音字
+
 [Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf)
-[https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf "Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT")
+[g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136)
+
+## 韵律
+
 
 
 
 
 ### Vocoder
+
 ### Acoustic Model
+
 ### Expressive TTS
+
 
 
 
