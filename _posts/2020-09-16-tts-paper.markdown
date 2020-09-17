@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "语音合成论文阅读目录"
-date:   2020-09-16 13:51:36 +0800
+title: 语音合成论文阅读目录
+date: '2020-09-16 13:51:36 +0800'
 categories: TTS paper_reading
+published: true
 ---
 ### Frontend
+[Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf)
 
 ### Vocoder
 ### Acoustic Model
