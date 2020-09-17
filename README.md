@@ -54,18 +54,18 @@ plainwhite:
 
 **Updating Placeholder Image**
 
-The placeholder portfolio image can be replaced by the desired image by placing it as `assets/portfolio.png` in your jekyll website, or by changing the following line in `_config.yaml`
+The placeholder portfolio image can be replaced by the desired image by placing it as `assets/saikiprofile.png` in your jekyll website, or by changing the following line in `_config.yaml`
 
 ```yaml
 plainwhite:
-  portfolio_image:  "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image:  "assets/saikiprofile.png" # the path from the base directory of the site to the image to display (no / at the start)
 ```
 
 To use a different image for dark mode, e.g. with different colors that work better in dark mode, add a `portfolio_image_dark` entry in addition to the `portfolio_image`.
 
 ```yaml
 plainwhite:
-  portfolio_image:      "assets/portfolio.png"
+  portfolio_image:      "assets/saikiprofile.png"
   portfolio_image_dark: "assets/portfolio_dark.png"
 ```
 

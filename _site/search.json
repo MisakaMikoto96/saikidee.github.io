@@ -5,11 +5,11 @@
       "title-lower"    : "语音合成论文阅读目录",
       "sub-titile" : "",
       "sub-titile-lower" : "",
-      "categories" : "TTSpaper_reading",
+      "categories" : "TTSPaperReading",
       "tags"     : "",
-      "url"      : "/tts/paper_reading/2020/09/16/tts-paper.html",
+      "url"      : "/tts/paperreading/2020/09/16/tts-paper.html",
       "date"     : "2020-09-16 13:51:36 +0800",
-      "content"     : "FrontendVocoderAcoustic ModelExpressive TTS"
+      "content"     : "收录和分享一些语音合成领域论文阅读清单, 包括前端、声学模型、声码器、VC、情感合成、风格迁移、歌声合成等内容。Frontend多音字Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERTg2pM: A Neural..."
     } 
   
 ]

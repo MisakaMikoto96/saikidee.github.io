@@ -1,0 +1,58 @@
+I"�<p>收录和分享一些语音合成领域论文阅读清单, 包括前端、声学模型、声码器、VC、情感合成、风格迁移、歌声合成等内容。</p>
+
+<h1 id="frontend">Frontend</h1>
+<h2 id="多音字">多音字</h2>
+
+<p><a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf">Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT</a></p>
+
+<p><a href="https://arxiv.org/abs/2004.03136">g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset</a></p>
+
+<h2 id="韵律">韵律</h2>
+
+<p>## 
+<strong>__</strong><em>__</em></p>
+
+<h1 id="vocoder">Vocoder</h1>
+<p><strong>WavenNet</strong></p>
+
+<p><strong>WaveGlow</strong></p>
+
+<p><strong>WaveRNN</strong></p>
+
+<p><strong>FastSpeech1</strong></p>
+
+<p><strong>FastSpeech2</strong></p>
+
+<p><strong>Mel-Gan</strong></p>
+
+<p><strong>Multi-band MelGan</strong></p>
+
+<p><strong>Parallel WaveGan</strong></p>
+
+<hr />
+
+<h1 id="acoustic-model">Acoustic Model</h1>
+
+<p><strong>Tacotron</strong>：<a href="https://arxiv.org/pdf/1703.10135.pdf">Tacotron: Towards End-to-End Speech Synthesis</a></p>
+
+<p><strong>Tacotron2</strong>： <a href="https://arxiv.org/pdf/1712.05884.pdf">Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions</a></p>
+
+<p><strong>Transformer-TTS</strong>：<a href="https://arxiv.org/pdf/1809.08895.pdf">Neural Speech Synthesis with Transformer Network</a></p>
+
+<p><strong>Durian</strong> <a href="https://arxiv.org/abs/1909.01700.pdf">DurIAN: Duration Informed Attention Network For Multimodal Synthesis</a></p>
+
+<p><strong>AdaDurain</strong> <a href="https://arxiv.org/pdf/2005.05642.pdf">AdaDurIAN: Few-shot Adaptation for Neural Text-to-Speech with DurIAN</a></p>
+
+<hr />
+
+<h1 id="expressive-tts">Expressive TTS</h1>
+
+<hr />
+
+<h1 id="sing-synthesis">Sing Synthesis</h1>
+
+<hr />
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+</code></pre></div></div>
+:ET
