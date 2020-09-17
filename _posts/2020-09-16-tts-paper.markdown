@@ -10,9 +10,9 @@ published: true
 # Frontend
 ## 多音字
 
-[Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf)
+[Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf)（2019）
 
-[g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136)
+[g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136)（2020）
 
 
 ## 韵律
@@ -24,13 +24,13 @@ __________
 
 
 # Vocoder
-**WavenNet** [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884.pdf)
+**WavenNet** [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884.pdf)（2017）
 
-**WaveGlow** [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/abs/1811.00002.pdf)
+**WaveGlow** [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/abs/1811.00002.pdf)（2018）
 
-**WaveRNN** [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435.pdf)
+**WaveRNN** [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435.pdf) （2018）
 
-**FastSpeech1** [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263.pdf)
+**FastSpeech1** [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263.pdf) （2019）
 
 **FastSpeech2** 
 
@@ -44,31 +44,36 @@ __________
 
 # Acoustic Model
 
-**Tacotron**：[Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/pdf/1703.10135.pdf)
+**Tacotron**：[Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/pdf/1703.10135.pdf) （2017）
 
-**Tacotron2**： [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf)
+**Tacotron2**： [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf) （2017）
 
-**Transformer-TTS**：[Neural Speech Synthesis with Transformer Network](https://arxiv.org/pdf/1809.08895.pdf)
+**Transformer-TTS**：[Neural Speech Synthesis with Transformer Network](https://arxiv.org/pdf/1809.08895.pdf) （2018）
 
-**Durian** [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700.pdf)
+**Durian** [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700.pdf) (2019）
 
-**AdaDurain** [AdaDurIAN: Few-shot Adaptation for Neural Text-to-Speech with DurIAN](https://arxiv.org/pdf/2005.05642.pdf)
+**AdaDurain** [AdaDurIAN: Few-shot Adaptation for Neural Text-to-Speech with DurIAN](https://arxiv.org/pdf/2005.05642.pdf) (2020)
 
 __________
 
 # Expressive TTS
 
 ## VAE-based
+
 ### Advanced
-[beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/pdf?id=Sy2fzU9gl)
+[Learning Hierarchical Priors in VAEs](https://arxiv.org/abs/1905.04982.pdf)（2019）
 
-[VAE with a VampPrior](http://proceedings.mlr.press/v84/tomczak18a/tomczak18a.pdf)
+[Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599.pdf) (2018)
 
-[Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599.pdf)
+[Taming vae](https://arxiv.org/abs/1810.00597.pdf) (2018)
 
-[Taming vae](https://arxiv.org/abs/1810.00597.pdf)
+[beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/pdf?id=Sy2fzU9gl) (2017)
 
+[VAE with a VampPrior](http://proceedings.mlr.press/v84/tomczak18a/tomczak18a.pdf) (2017)
 
+[Improving Variational Inference with Inverse Autoregressive Flow ](https://arxiv.org/abs/1606.04934.pdf) (2016)
+
+[Importance weighted autoencoders](https://arxiv.org/abs/1509.00519.pdf)（2015）
 
 
 
