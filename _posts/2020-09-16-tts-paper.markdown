@@ -7,6 +7,10 @@ published: true
 ---
 ### Frontend
 [Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf)
+[https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2292.pdf "Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT")
+
+
+
 
 ### Vocoder
 ### Acoustic Model
