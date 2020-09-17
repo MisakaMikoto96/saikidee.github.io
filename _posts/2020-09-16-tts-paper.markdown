@@ -32,7 +32,7 @@ __________
 
 **FastSpeech1** [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263.pdf)
 
-**FastSpeech2**
+**FastSpeech2** 
 
 **Mel-Gan**
 
@@ -57,6 +57,19 @@ __________
 __________
 
 # Expressive TTS
+
+## VAE-based
+### Advanced
+[beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/pdf?id=Sy2fzU9gl)
+
+[VAE with a VampPrior](http://proceedings.mlr.press/v84/tomczak18a/tomczak18a.pdf)
+
+[Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599.pdf)
+
+[Taming vae](https://arxiv.org/abs/1810.00597.pdf)
+
+
+
 
 
 __________
