@@ -24,13 +24,13 @@ __________
 
 
 # Vocoder
-**WavenNet**
+**WavenNet** [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884.pdf)
 
-**WaveGlow**
+**WaveGlow** [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/abs/1811.00002.pdf)
 
-**WaveRNN**
+**WaveRNN** [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435.pdf)
 
-**FastSpeech1**
+**FastSpeech1** [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263.pdf)
 
 **FastSpeech2**
 
