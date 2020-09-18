@@ -23,13 +23,13 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
+    #twitter: samarsault
+    github:  MisakaMikoto96
     linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
+    instagram: jekyll
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
