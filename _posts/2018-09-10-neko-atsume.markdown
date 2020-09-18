@@ -5,8 +5,6 @@ date: '2018-09-10 15:43:19 +0800'
 categories: 划水日常
 published: true
 ---
-![这里写图片描述](https://img-blog.csdn.net/20180910152738814?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NhaWtpZGVl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-
 作为neko atsume的脑残宅粉，本人最大的兴趣之一就是每天云养猫，吃饭在养，睡前在养，走路在养，写作业在养，蹲lab在养，到考试前夕了还在养。没想到自己会对放置play这么有热情的，每当心态凉凉的时候就想点开app看一眼我的喵们>.<。图鉴类的游戏往往能够抓住收集爱好者和强迫症患者的心，就像盖满章的手册一样，安全感指数级增长pupupu！
 ![这里写图片描述](https://img-blog.csdn.net/20180910154445474?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NhaWtpZGVl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
@@ -20,7 +18,7 @@ published: true
 
 
 
-## Apktool的安装
+## 一．Apktool的安装
 建议用Homebrew来管理mac上的软件包，apktool官网的下载方式麻烦死了，用这个会比官网的下载方式要方便非常多！
 运行terminal，输入：
 ```python
@@ -55,7 +53,7 @@ brew install apktool
 
 
 
-##二．Dex2jar
+# 二．Dex2jar
  https://github.com/pxb1988/dex2jar 
 
 输入：
@@ -81,7 +79,7 @@ sudo sh /Users/apple/Desktop/dex2jar-2.0/d2j-dex2jar.sh/Users/apple/Desktop/dex2
 
 ![这里写图片描述](https://img-blog.csdn.net/20180910154143534?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NhaWtpZGVl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70) 
 
-##三．JD-GUI
+# 三．JD-GUI
 下载链接：http://jd.benow.ca/ 
 接下来我们需要用JD-GUI来呈现，注意一下这边下载的jdk版本是1.8.0 因为JD-GUI比较傲娇用java1.9打不开orz。
 下载好JD-GUI之后我们打开它，右键显示包内容，调出它的脚本文件。
@@ -93,6 +91,9 @@ sudo sh /Users/apple/Desktop/dex2jar-2.0/d2j-dex2jar.sh/Users/apple/Desktop/dex2
 JAVACMD="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/bin/java"
 ```
 然后保存关闭，就可以顺利运行JD-GUI了www 哦呼
+
+![这里写图片描述](https://img-blog.csdn.net/20180910152738814?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NhaWtpZGVl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
 
 
 
