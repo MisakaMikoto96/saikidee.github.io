@@ -6,10 +6,13 @@ categories: 划水日常
 published: true
 ---
 作为neko atsume的脑残宅粉，本人最大的兴趣之一就是每天云养猫，吃饭在养，睡前在养，走路在养，写作业在养，蹲lab在养，到考试前夕了还在养。没想到自己会对放置play这么有热情的，每当心态凉凉的时候就想点开app看一眼我的喵们>.<。图鉴类的游戏往往能够抓住收集爱好者和强迫症患者的心，就像盖满章的手册一样，安全感指数级增长pupupu！
+
+鉴于一直搜集不全mementos，很想扒一扒得到mementos的内在规律，那么今天我们就来说一说（水一水）猫咪后院的反编译！
+
+
 ![这里写图片描述](https://img-blog.csdn.net/20180910154445474?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NhaWtpZGVl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
  
-鉴于一直搜集不全mementos，很想扒一扒得到mementos的内在规律，那么今天我们就来说一说（水一水）猫咪后院的反编译！
 
 ## 这里我们要用到的工具有：
 1.	Apktool（我使用的是version2.3.2）
