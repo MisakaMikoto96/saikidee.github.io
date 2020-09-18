@@ -6,7 +6,7 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
             <loc></loc>
-	    <lastmod>2020-09-18T14:34:53+08:00</lastmod>
+	    <lastmod>2020-09-18T14:39:45+08:00</lastmod>
             <priority>1.00</priority>
         </url><url>
                 <loc>/tts/paperreading/2020/09/16/tts-paper.html</loc>
@@ -14,8 +14,8 @@
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>/2018/05/23/neko-atsume.html</loc>
-                <lastmod>2018-05-23T00:00:00+08:00</lastmod>
+                <loc>/%E5%88%92%E6%B0%B4%E6%97%A5%E5%B8%B8/2018/09/10/neko-atsume.html</loc>
+                <lastmod>2018-09-10T15:43:19+08:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url></urlset>
